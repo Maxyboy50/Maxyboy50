@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maxyboy50
-- 👀 I’m interested in ... Data Engineering, Data Science, and SQL.
-- 🌱 I’m currently learning ... SQL, Python, Data Engineering, Process Mining
-- 💞️ I’m looking to collaborate on ... SQL projects
+- 👋 Hi, I'm Max!
+- 👀 I’m interested in ... Devops, Software Development
+- 🌱 I’m currently learning ... Linux, Python, Terraform, Ansible, AWS
+- 💞️ I’m looking to collaborate on ... DevOps Projects.
 - 📫 How to reach me ... weitzmax15@gmail.com
 
 <!---
