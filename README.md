@@ -1,10 +1,10 @@
 - 👋 Hi, I'm Max!
 
-- I'm a DevOps Engineer looking to leverage my skills to build cloud native products.
+- I'm a DevOps Engineer leveraging my skills to build cloud native products.
 
 - I have certifications in AWS (CCP + Solutions Architect Associate) as well as in Terraform (certified Terraform Associate)!
 
-- You can reach me at weitzmax15@gmail.com or message me on LinkedIn @ https://www.linkedin.com/in/max-weitz/, feel free to reach out if you ever want to collab/have any questions AWS or Terraform related (I always possess an open ear 😁).
+- You can reach me at weitzmax15@gmail.com or message me on LinkedIn @ https://www.linkedin.com/in/max-weitz/, feel free to reach out if you ever want to collab/have any questions AWS, Terraform, or DevOps related (I always possess an open ear 😁).
 
 <!---
 Maxyboy50/Maxyboy50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
